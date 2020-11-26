@@ -76,3 +76,9 @@ Analyze
 What are the elements of this?
 What's the relation between the elements?
 
+Evaluate
+How would you assess this?
+What data would you use to evaluate this?
+How could you verify this?
+
+Create
