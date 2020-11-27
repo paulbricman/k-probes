@@ -1,4 +1,4 @@
-Knowledge
+Remember
 Who's involved in this?
 Who suggested this?
 What field is this part of?
@@ -14,7 +14,7 @@ What's an instance of this?
 What are some facts related to this?
 Are there other names for this?
 
-Comprehension
+Understand
 How would you rephrase this?
 How would you describe this?
 How would you summarize this?
@@ -48,7 +48,7 @@ Why does this occur?
 What is the cause of this?
 Why is this the case?
 
-Application
+Apply
 How can this be applied?
 What are some applications of this?
 How can this be helpful?
@@ -56,7 +56,7 @@ Who can benefit from this?
 How could this be put into practice?
 How can this be leveraged?
 
-Analysis
+Analyze
 What are the components of this?
 What's the structure of this?
 How can this be split into parts?
@@ -69,17 +69,7 @@ What are some attributes of this?
 How are the components of this integrated?
 How does this emerge?
 
-Synthesis
-How would you communicate this visually?
-How would you visualize this?
-How would you design something based on this?
-How would you construct something based on this?
-How would you obtain this differently?
-How can this be adapted?
-How can this be modified?
-How can this be formalized?
-
-Evaluation
+Evaluate
 How can you evaluate this?
 How can this be measured?
 How can this be disproven?
@@ -98,3 +88,13 @@ What's a counterargument for this?
 How would you assess this?
 What data would you use to evaluate this?
 How could you verify this?
+
+Create
+How would you communicate this visually?
+How would you visualize this?
+How would you design something based on this?
+How would you construct something based on this?
+How would you obtain this differently?
+How can this be adapted?
+How can this be modified?
+How can this be formalized?
