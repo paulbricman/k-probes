@@ -75,6 +75,9 @@ How would you visualize this?
 How would you design something based on this?
 How would you construct something based on this?
 How would you obtain this differently?
+How can this be adapted?
+How can this be modified?
+How can this be formalized?
 
 Evaluation
 How can you evaluate this?
