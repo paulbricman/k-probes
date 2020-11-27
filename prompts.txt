@@ -2,14 +2,16 @@ Knowledge
 Who's involved in this?
 Who suggested this notion?
 What field is this part of?
+What conceptual framework is this part of?
 When was this notion suggested?
 Where was this notion proposed?
+In what context was this notion suggested?
 What's an example of this?
 How can this be illustrated?
 Where can this notion be observed?
 When does this manifest?
 What's an instance of this?
-What are some related facts?
+What are some facts related to this?
 Are there other names for this?
 
 Comprehension
@@ -23,7 +25,7 @@ How would you explain this to a peer?
 What category does this fall under?
 How can you classify this?
 How would you model this?
-What are the first principles?
+What are the first principles of this?
 What is the underlying mental model?
 How would you generalize this?
 What's the essence of this?
