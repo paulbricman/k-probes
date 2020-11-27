@@ -1,66 +1,95 @@
 Knowledge
-What would be an example of this?
+Who's involved in this?
+Who suggested this notion?
+What field is this part of?
+When was this notion suggested?
+Where was this notion proposed?
+What's an example of this?
 How can this be illustrated?
-How does this tie into previous knowledge?
-What do you remember about this?
+Where can this notion be observed?
+When does this manifest?
+What's an instance of this?
+What are some related facts?
+Are there other names for this?
 
 Comprehension
-How would you put this into your own words?
-How would you paraphrase this?
-What conclusions can be drawn from this?
-What pattern does this capture?
-What are the principles of this?
-How would you explain this?
-What is the main idea of this?
-How can you describe this?
+How would you rephrase this?
+How would you describe this?
+How would you summarize this?
+How would you explain this to a child?
+How would you explain this to a teenager?
+How would you explain this to a student?
+How would you explain this to a peer?
+What category does this fall under?
+How can you classify this?
+How would you model this?
+What are the first principles?
+What is the underlying mental model?
 How would you generalize this?
-
-Analysis
-What are the most important elements of this?
-What does this imply?
-If this was true, what would follow?
-What are the broader implications?
-Why does this occur?
-What causes this?
-Why does this matter?
-Why? Why? Why?
-Who does this influence?
-Why is this important?
-Why is this happening?
-What do you think causes this?
-Why is this the case?
-What are the elements of this?
-What's the relation between the elements?
-
-Synthesis
-How would you translate this into visual form?
-What can be extrapolated from this?
-What might be an analogy for this?
+What's the essence of this?
+What pattern does this capture?
+What are the main points of this?
+How would you translate this to another domain?
+How would you represent this visually?
+How does this compare to related notions?
+How is this different to related notions?
+What would be an analogy for this?
 What is this analogous to?
+What can you conclude from this?
+How can this be extrapolated?
+Why is this important?
+Why is this meaningful?
+Why is this relevant?
+What does this imply?
+What follows from this?
+Why does this occur?
+What is the cause of this?
+Why is this the case?
 
 Application
-How can you make use of this?
+How can this be applied?
+What are some applications of this?
+How can this be helpful?
+Who can benefit from this?
 How could this be put into practice?
-How could this be used?
-What are ways of applying this?
-How would you leverage this?
+How can this be leveraged?
+
+Analysis
+What are the components of this?
+What's the structure of this?
+How can this be split into parts?
+How do the components of this relate to each other?
+How are the components of this different?
+How do the components of this interact?
+What role do the components of this play?
+How can this be deconstructed?
+What are some attributes of this?
+How are the components of this integrated?
+How does this emerge?
+
+Synthesis
+How would you communicate this visually?
+How would you visualize this?
+How would you design something based on this?
+How would you construct something based on this?
+How would you obtain this differently?
 
 Evaluation
+How can you evaluate this?
+How can this be measured?
+How can this be disproven?
 What assumptions underlie this?
 What biases are hidden within this?
-What proof exists for this?
 What evidence supports this?
 What are some arguments against this?
 What evidence contradicts this?
-How would people from different background view this?
+How would different people view this?
 What would happen if this was false?
 How do you know this?
-How would your perspective be different if you were on the opposing side?
+What are some different perspectives on this?
 What's another way to look at this?
-What would happen if this was true?
 What would happen if this was false?
-What is a counterargument for this?
-How would you demonstrate this?
+What's a counterargument for this?
 How would you assess this?
 What data would you use to evaluate this?
 How could you verify this?
