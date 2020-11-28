@@ -12,7 +12,14 @@ Where can this be observed?
 When does this manifest?
 What's an instance of this?
 What are some facts related to this?
+What other concepts are related to this?
 Are there other names for this?
+How would you define this?
+How would you characterize this?
+What is the definition of this?
+What puzzle is this part of?
+What are some unanswered questions about this?
+What is controversial about this?
 
 Understand
 How would you rephrase this?
@@ -25,36 +32,62 @@ How would you explain this to a peer?
 What category does this fall under?
 How can you classify this?
 How would you model this?
+What is the function of this?
 What are the first principles of this?
 What is the underlying mental model?
 How would you generalize this?
 What's the essence of this?
+What are the key ideas behind this?
+What are the key takeaways of this?
 What pattern does this capture?
+What is the basis of this?
 What are the main points of this?
 How would you translate this to another domain?
 How would you represent this visually?
 How does this compare to related notions?
 How is this different to related notions?
+How is this similar to related notions?
+How does this relate to other notions?
+How does this interact with other notions?
+How does this fit with other notions?
 What would be an analogy for this?
 What is this analogous to?
 What can you conclude from this?
 How can this be extrapolated?
+What does this all mean?
 Why is this important?
 Why is this meaningful?
 Why is this relevant?
+What is the value of this?
+What's the purpose of this?
 What does this imply?
 What follows from this?
+How does this affect the rest?
 Why does this occur?
 What is the cause of this?
+What is the source of this?
+What is this a consequence of?
 Why is this the case?
+Why does this exist?
 
 Apply
 How can this be applied?
+What is the impact of this?
 What are some applications of this?
 How can this be helpful?
 Who can benefit from this?
 How could this be put into practice?
 How can this be leveraged?
+How can this be harnessed?
+How can this be made practical?
+How can you make the most of this?
+How can you best use this?
+How could this be applied in a professional setting?
+How could this be applied in a personal setting?
+How can this help people?
+How could this be of use to others?
+What are some unexpected application domains for this?
+What's next?
 
 Analyze
 What are the components of this?
@@ -64,10 +97,19 @@ How do the components of this relate to each other?
 How are the components of this different?
 How do the components of this interact?
 What role do the components of this play?
+How are the components of this interconnected?
 How can this be deconstructed?
 What are some attributes of this?
 How are the components of this integrated?
 How does this emerge?
+How does this evolve?
+How does this change?
+How does this become coherent?
+How does this work as a whole?
+Can this be viewed as a process?
+Can this be viewed as a system?
+Can this be viewed as an ecosytem?
+Can this be viewed as an space?
 
 Evaluate
 How can you evaluate this?
@@ -88,6 +130,8 @@ What's a counterargument for this?
 How would you assess this?
 What data would you use to evaluate this?
 How could you verify this?
+Why isn't this more applied?
+Where does this end?
 
 Create
 How would you communicate this visually?
@@ -98,3 +142,8 @@ How would you obtain this differently?
 How can this be adapted?
 How can this be modified?
 How can this be formalized?
+Where can this be improved?
+How can this be a source for inspiration?
+How would this be taught?
+How can this be adapted?
+How can you relate to this?
