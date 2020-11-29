@@ -72,6 +72,7 @@ Why is this studied?
 What's the purpose of this?
 What does this imply?
 What follows from this?
+How could this change how we view the world?
 What can this lead to?
 How does this affect the rest?
 How does this come into play?
@@ -81,6 +82,7 @@ What is the source of this?
 What is this a consequence of?
 Why is this the case?
 Why does this exist?
+Why is this a thing?
 
 Apply
 How can this be applied?
@@ -102,9 +104,17 @@ How could this be of use to others?
 What are some unexpected application domains for this?
 What's next?
 How could this be applied to other domains?
+What are some unique areas where this can be applied?
+How might this be used in new areas?
 What is the future of this?
 How might this apply to new domains?
 What domains might this be helpful in?
+What problems can this solve?
+What issues can this help with?
+What can this do in other domains?
+How can this be applied in a new domain?
+How can this change the global landscape?
+What has to be in place before this can be applied?
 
 Analyze
 What are the components of this?
@@ -118,6 +128,7 @@ How are the components of this interconnected?
 How can this be deconstructed?
 What are some attributes of this?
 How are the components of this integrated?
+How could this be analyzed in more depth?
 How does this emerge?
 How does this evolve?
 How does this change?
@@ -125,8 +136,10 @@ How does this become coherent?
 How does this work as a whole?
 How can this be viewed as a process?
 How can this be viewed as a system?
-How can this be viewed as an ecosytem?
-How can this be viewed as an space?
+How can this be viewed as an ecosystem?
+How can this be viewed as an organism?
+How can this be viewed as an experience?
+How can this be viewed as a space?
 How can this be viewed from a physics perspective?
 How can this be viewed from an economics perspective?
 How can this be viewed from a philosophy perspective?
@@ -157,12 +170,14 @@ What data would you use to evaluate this?
 How could you verify this?
 Why isn't this more applied?
 Where does this end?
+When does this hold?
 What needs to be known to judge this?
 What's the train of thought behind this?
 How did people get to this?
 What motivated the people behind this?
 What are some alternatives to this?
 Is this in accordance with common sense?
+Why is this the norm?
 
 Create
 How would you communicate this visually?
@@ -181,6 +196,7 @@ How can this be expanded?
 How can this be translated?
 How can this be formalized?
 How can this be adapted?
+How can this be manipulated?
 Where can this be improved?
 How can this be a source for inspiration?
 How would this be taught?
@@ -190,5 +206,8 @@ What opportunities does this offer?
 How could you best express this?
 What is missing from this?
 What are some unexplored dimensions of this?
-What does this say about its proponents?
+What does this say about its advocates?
 Why would people find this intriguing?
+How would you contribute to this?
+How could you have more of a connection to this?
+What plot twist could this provide?
