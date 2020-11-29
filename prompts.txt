@@ -15,11 +15,13 @@ What are some facts related to this?
 What other concepts are related to this?
 Are there other names for this?
 How would you define this?
+What is this about?
 How would you characterize this?
 What is the definition of this?
 What puzzle is this part of?
 What are some unanswered questions about this?
 What is controversial about this?
+What are some problems with this?
 
 Understand
 How would you rephrase this?
@@ -35,6 +37,7 @@ How would you model this?
 What is the function of this?
 What are the first principles of this?
 What is the underlying mental model?
+What's the dual of this?
 How would you generalize this?
 What's the essence of this?
 What are the key ideas behind this?
@@ -59,9 +62,11 @@ Why is this important?
 Why is this meaningful?
 Why is this relevant?
 What is the value of this?
+Why is this studied?
 What's the purpose of this?
 What does this imply?
 What follows from this?
+What can this lead to?
 How does this affect the rest?
 Why does this occur?
 What is the cause of this?
@@ -81,6 +86,7 @@ How can this be leveraged?
 How can this be harnessed?
 How can this be made practical?
 How can you make the most of this?
+How can you take advantage of this?
 How can you best use this?
 How could this be applied in a professional setting?
 How could this be applied in a personal setting?
@@ -88,6 +94,10 @@ How can this help people?
 How could this be of use to others?
 What are some unexpected application domains for this?
 What's next?
+How could this be applied to other domains?
+What is the future of this?
+How might this apply to new domains?
+What domains might this be helpful in?
 
 Analyze
 What are the components of this?
@@ -106,10 +116,16 @@ How does this evolve?
 How does this change?
 How does this become coherent?
 How does this work as a whole?
-Can this be viewed as a process?
-Can this be viewed as a system?
-Can this be viewed as an ecosytem?
-Can this be viewed as an space?
+How can this be viewed as a process?
+How can this be viewed as a system?
+How can this be viewed as an ecosytem?
+How can this be viewed as an space?
+How can this be viewed from a physics perspective?
+How can this be viewed from an economics perspective?
+How can this be viewed from a philosophy perspective?
+How can this be viewed from a mathematics perspective?
+How can this be viewed from a biology perspective?
+How can this be viewed from a psychology perspective?
 
 Evaluate
 How can you evaluate this?
@@ -132,6 +148,10 @@ What data would you use to evaluate this?
 How could you verify this?
 Why isn't this more applied?
 Where does this end?
+What needs to be known to judge this?
+What's the train of thought behind this?
+How did people get to this?
+What motivated the people behind this?
 
 Create
 How would you communicate this visually?
@@ -147,3 +167,6 @@ How can this be a source for inspiration?
 How would this be taught?
 How can this be adapted?
 How can you relate to this?
+What questions does this give rise to?
+What opportunities does this offer?
+How could you best express this?
