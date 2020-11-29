@@ -5,6 +5,8 @@ What field is this part of?
 What conceptual framework is this part of?
 When was this suggested?
 Where was this proposed?
+How does the history of this look like?
+How did this develop over time?
 In what context was this suggested?
 What's an example of this?
 How can this be illustrated?
@@ -12,16 +14,20 @@ Where can this be observed?
 When does this manifest?
 What's an instance of this?
 What are some facts related to this?
+What is known about this topic?
 What other concepts are related to this?
+How does this relate to other topics?
 Are there other names for this?
+Is this a novel idea?
 How would you define this?
 What is this about?
 How would you characterize this?
+What are the basic facts of this?
 What is the definition of this?
 What puzzle is this part of?
 What are some unanswered questions about this?
 What is controversial about this?
-What are some problems with this?
+What are some known problems with this?
 
 Understand
 How would you rephrase this?
@@ -68,6 +74,7 @@ What does this imply?
 What follows from this?
 What can this lead to?
 How does this affect the rest?
+How does this come into play?
 Why does this occur?
 What is the cause of this?
 What is the source of this?
@@ -129,6 +136,7 @@ How can this be viewed from a psychology perspective?
 
 Evaluate
 How can you evaluate this?
+How can you test this?
 How can this be measured?
 How can this be disproven?
 What assumptions underlie this?
@@ -140,6 +148,7 @@ How would different people view this?
 What would happen if this was false?
 How do you know this?
 What are some different perspectives on this?
+What are some possible interpretations of this?
 What's another way to look at this?
 What would happen if this was false?
 What's a counterargument for this?
@@ -152,21 +161,34 @@ What needs to be known to judge this?
 What's the train of thought behind this?
 How did people get to this?
 What motivated the people behind this?
+What are some alternatives to this?
+Is this in accordance with common sense?
 
 Create
 How would you communicate this visually?
 How would you visualize this?
+How would you represent this?
+How can this be conveyed effectively?
+How would you communicate this as an experience?
+How does this fit into a narrative?
+How can this be made more tangible?
 How would you design something based on this?
 How would you construct something based on this?
 How would you obtain this differently?
 How can this be adapted?
 How can this be modified?
+How can this be expanded?
+How can this be translated?
 How can this be formalized?
+How can this be adapted?
 Where can this be improved?
 How can this be a source for inspiration?
 How would this be taught?
-How can this be adapted?
 How can you relate to this?
 What questions does this give rise to?
 What opportunities does this offer?
 How could you best express this?
+What is missing from this?
+What are some unexplored dimensions of this?
+What does this say about its proponents?
+Why would people find this intriguing?
