@@ -1,4 +1,3 @@
-Remember
 Who's involved in this?
 Who suggested this?
 What field is this part of?
@@ -28,8 +27,6 @@ What puzzle is this part of?
 What are some unanswered questions about this?
 What is controversial about this?
 What are some known problems with this?
-
-Understand
 How would you rephrase this?
 How would you describe this?
 How would you summarize this?
@@ -83,8 +80,6 @@ What is this a consequence of?
 Why is this the case?
 Why does this exist?
 Why is this a thing?
-
-Apply
 How can this be applied?
 What is the impact of this?
 What are some applications of this?
@@ -115,8 +110,6 @@ What can this do in other domains?
 How can this be applied in a new domain?
 How can this change the global landscape?
 What has to be in place before this can be applied?
-
-Analyze
 What are the components of this?
 What's the structure of this?
 How can this be split into parts?
@@ -146,8 +139,6 @@ How can this be viewed from a philosophy perspective?
 How can this be viewed from a mathematics perspective?
 How can this be viewed from a biology perspective?
 How can this be viewed from a psychology perspective?
-
-Evaluate
 How can you evaluate this?
 How can you test this?
 How can this be measured?
@@ -178,8 +169,6 @@ What motivated the people behind this?
 What are some alternatives to this?
 Is this in accordance with common sense?
 Why is this the norm?
-
-Create
 How would you communicate this visually?
 How would you visualize this?
 How would you represent this?
