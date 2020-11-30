@@ -18,4 +18,4 @@ while True:
     sample_category = random.choices(list(configuration.keys()), weights = list(configuration.values()))[0]
     sample_prompt = random.choice(prompts[sample_category])
 
-    print('\n' + sample_prompt + '\n')
+    print('\n' + sample_prompt)
