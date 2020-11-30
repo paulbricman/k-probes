@@ -74,6 +74,7 @@
 - What follows from this?
 - How could this change how we view the world?
 - What can this lead to?
+- What are some second-order consequences of this?
 - How does this affect the rest?
 - How does this come into play?
 - Why does this occur?
