@@ -13,7 +13,7 @@ configuration = {
 }
 
 while True:
-    input_text = input()
+    input()
 
     sample_category = random.choices(list(configuration.keys()), weights = list(configuration.values()))[0]
     sample_prompt = random.choice(prompts[sample_category])
