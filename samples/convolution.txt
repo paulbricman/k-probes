@@ -1,0 +1,49 @@
+Today I learned about convolutions.
+
+What puzzle is this part of?
+It's part of a lot of signal processing techniques.
+
+What's the purpose of this?
+It is a compact way of expressing the filtering of a discrete signal.                  
+
+How can this be viewed as an organism?
+The signal could be viewed as living through various processing stages in a system, changing dynamically.                          
+
+How would this be taught?
+The computational part is pretty straight-forward, perhaps with some more practical examples like the BOLD response.
+
+How would you model this?
+As an operator which can be applied to two signals, resulting in a third containing a combination of the two.
+
+Are there other names for this?
+It's related to correlation, but it's the inverse. Sometimes pattern-matching.
+
+How might this be used in new areas?
+Well, it's clearly used a lot in machine learning. Early face recognition, for instance. Perhaps in recognizing fingerprints.
+
+What opportunities does this offer?
+The opportunity to compactly express filtering.
+
+How would you represent this visually?
+The convolution layer is often represented visually, with a pyramid-like cone thingy.  
+
+What is the underlying mental model?
+A special way of composing two functions, across time.
+
+How can this be viewed from a mathematics perspective?
+That's pretty straight-forward, as an operator which related two functions.
+
+How can this be leveraged?
+Pattern-matching, as part of a neural network, perhaps.
+
+What are some possible interpretations of this?
+A combination of two functions but not in the sense of a composition. As a filter. As a pattern matcher. Etc.
+
+How would you communicate this as an experience?
+Sweat levels could be probably modeled as a convolution of calories being burned.
+
+How might this apply to new domains?
+Outside computer science? Hm, hard to imagine. Wonder if it has uses in language, it probably has. 
+
+What's the structure of this?
+Two functions or signals being piped through this process, resulting in another one.
