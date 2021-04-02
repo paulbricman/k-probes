@@ -3,7 +3,7 @@ import json
 import random
 import sys
 
-prompts = json.load(open("prompts.json"))
+prompts = json.load(open('prompts.json'))
 
 configuration = {
     "Remember": 10,
