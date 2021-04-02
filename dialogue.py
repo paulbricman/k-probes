@@ -1,6 +1,6 @@
-import os
 import json
 import random
+import os
 import sys
 
 prompts = json.load(open('prompts.json'))
